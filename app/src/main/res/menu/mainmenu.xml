@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mo="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/badges"
+        android:title=""
+        android:icon="@mipmap/wrapper"
+        mo:showAsAction="always" />
+
+    <item
+        android:id="@+id/map"
+        android:title=""
+        android:icon="@android:drawable/ic_menu_mapmode"
+        mo:showAsAction="always" />
+
+</menu>
